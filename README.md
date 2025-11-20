@@ -33,7 +33,7 @@ Scroll adds a floating navigation panel to AI chat interfaces. Jump to any promp
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/scroll.git
+git clone https://github.com/asker-kurtelli/scroll.git
 cd scroll
 ```
 
